@@ -59,7 +59,7 @@ Currently leading advanced analytics and **AI-driven automation initiatives** at
 ## 🎯 Core Competencies
 
 ```
-✅ Strategic Planning & Execution     ✅ Cross-Functional Stakeholder Management
+✅ Strategic Planning & Execution      ✅ Cross-Functional Stakeholder Management
 ✅ KPI Framework Development           ✅ A/B Testing & Experimentation
 ✅ Data Pipeline Architecture          ✅ Automation & Process Optimization
 ✅ Cloud Data Warehousing              ✅ AI-Powered Analytics
